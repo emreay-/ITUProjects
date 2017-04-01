@@ -1,5 +1,9 @@
 # Modeling and Control of Biological Systems Project
 
+<p align="center">
+<img src="https://github.com/emreay-/ITUProjects/blob/master/Modeling%20and%20Ctrl%20of%20Biological%20Systems/Figures-Charts/circuit_bb.png" width="500">
+</p>
+
 An electronic flow meter is built to measure the gas flow rate during a person inhales and exhales.
 
 A differential flow-meter is built with two connected tubes varying in diametersand they equipped with Bosch BMP180 sensors.
