@@ -8,4 +8,4 @@ The sensors are connected to an Ardunio Mega to process the data. Then the data 
 
 In order to check and calibrate the system, a low cost simple mechanic respirometer is bought and connected to the tubes. 
 
-For details, you can read my [report.](Report/Modelling and Control of Biological Systems Project - Emre Ay.pdf) 
+For details, you can read my [report.](https://github.com/emreay-/ITUProjects/blob/master/Modeling%20and%20Ctrl%20of%20Biological%20Systems/Report/Modelling%20and%20Control%20of%20Biological%20Systems%20Project%20-%20Emre%20Ay.pdf) 
